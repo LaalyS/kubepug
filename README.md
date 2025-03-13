@@ -1,4 +1,4 @@
-# Deprecations  AKA KubePug - Pre UpGrade (Checker)
+#  Deprecations  AKA KubePug - Pre UpGrade (Checker)
 [![Build Status](https://github.com/kubepug/kubepug/actions/workflows/ci.yaml/badge.svg)](https://github.com/kubepug/kubepug/actions/workflows/ci.yaml)
 [![codecov](https://codecov.io/github/rikatz/kubepug/graph/badge.svg?token=BIAQ7JIYD1)](https://codecov.io/github/rikatz/kubepug)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubepug/kubepug)](https://goreportcard.com/report/github.com/kubepug/kubepug)
